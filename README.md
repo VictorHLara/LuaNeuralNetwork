@@ -45,10 +45,11 @@ A visually engaging implementation of a neural network solving the XOR problem, 
     love .
   ```
 ## 🎮 Usage
-  # Start training visualization
+
+  1. Start training visualization
     love .
 
-  # Keyboard Controls:
+  2. Keyboard Controls:
   # ↑ - Increase training speed
   # ↓ - Decrease training speed
 

@@ -18,8 +18,6 @@ A visually engaging implementation of a neural network solving the XOR problem, 
   - ReLU
   - Leaky ReLU
   - Tanh
-  - ELU
-  - Softmax (for classification)
 - **Training Controls**
   - Adjustable learning rate
   - Variable training speed (↑/↓ keys)

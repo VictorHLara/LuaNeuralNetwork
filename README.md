@@ -5,7 +5,6 @@
 
 A visually engaging implementation of a neural network solving the XOR problem, complete with real-time graphical visualization using the LÖVE2D framework.
 
-![Neural Network Visualization](https://i.imgur.com/9zZJQ7D.png) 
 
 ## ✨ Features
 

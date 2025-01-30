@@ -4,10 +4,11 @@ local NetworkRenderer = require("NetworkRenderer")
 -- Network configurations 
 local config = {
     inputSize = 2,   
-    hiddenSize = 4, 
+    hiddenSize = 3, 
     outputSize = 1,
     learningRate = 0.3,
-    trainingDelay = 0.5
+    trainingDelay = 0.5,
+    activation = "sigmoid"
 }
 
 function love.load()
@@ -18,7 +19,8 @@ function love.load()
         config.inputSize,
         config.hiddenSize,
         config.outputSize,
-        config.learningRate
+        config.learningRate,
+        config.activation
     )
 
     renderer = NetworkRenderer.new(config.inputSize, config.hiddenSize)

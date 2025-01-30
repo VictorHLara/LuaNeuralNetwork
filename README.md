@@ -44,7 +44,7 @@ A visually engaging implementation of a neural network solving the XOR problem, 
   ```bash
     love .
   ```
-4.**🎮 Usage
+##🎮 Usage
   # Start training visualization
     love .
 

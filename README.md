@@ -53,8 +53,8 @@ A visually engaging implementation of a neural network solving the XOR problem, 
 
   2. Keyboard Controls:
      ```bash
-        ↑ - Increase training speed
-        ↓ - Decrease training speed
+     ↑ - Increase training speed
+     ↓ - Decrease training speed
 
 ## 🛠️ Customization
 
@@ -63,10 +63,10 @@ Modify main.lua to experiment:
 local config = {  
     inputSize = 2,  
     hiddenSize = 4,  
-    outputSize = 1,
-    learningRate = 0.3,
-    trainingDelay = 0.5,
-    activation = "leaky_relu",  -- Try: sigmoid/relu/tanh/elu
+    outputSize = 1,  
+    learningRate = 0.3,  
+    trainingDelay = 0.5,  
+    activation = "leaky_relu",  -- Try: sigmoid/relu/tanh/elu  
 }
 
 6.📸 Preview

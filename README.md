@@ -47,11 +47,13 @@ A visually engaging implementation of a neural network solving the XOR problem, 
 ## 🎮 Usage
 
   1. Start training visualization
-    love .
+  ```bash
+      love .
+```
 
   2. Keyboard Controls:
-  # ↑ - Increase training speed
-  # ↓ - Decrease training speed
+  ### ↑ - Increase training speed
+  ### ↓ - Decrease training speed
 
 5.🛠️ Customization
 

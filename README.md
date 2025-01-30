@@ -1,8 +1,7 @@
 # Neural Network Visualization with LÖVE
 
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://lua.org)
-[![LÖVE](https://img.shields.io/badge/LÖVE-FF0000?style=for-the-badge&logo=love2d&logoColor=white)](https://love2d.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![LÖVE](https://img.shields.io/badge/LÖVE-FF0000?style=for-the-badge&logo=love2d&logoColor=white)](https://love2d.org
 
 A visually engaging implementation of a neural network solving the XOR problem, complete with real-time graphical visualization using the LÖVE2D framework.
 

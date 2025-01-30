@@ -56,18 +56,17 @@ A visually engaging implementation of a neural network solving the XOR problem, 
         ↑ - Increase training speed
         ↓ - Decrease training speed
 
-5.🛠️ Customization
+## 🛠️ Customization
 
 Modify main.lua to experiment:
 
-local config = {
-    inputSize = 2,
-    hiddenSize = 4,
+local config = {  
+    inputSize = 2,  
+    hiddenSize = 4,  
     outputSize = 1,
     learningRate = 0.3,
     trainingDelay = 0.5,
     activation = "leaky_relu",  -- Try: sigmoid/relu/tanh/elu
-    alpha = 0.1  -- For ELU activation
 }
 
 6.📸 Preview

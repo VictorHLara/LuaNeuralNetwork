@@ -66,7 +66,7 @@ local config = {
     outputSize = 1,  
     learningRate = 0.3,  
     trainingDelay = 0.5,  
-    activation = "leaky_relu",  -- Try: sigmoid/relu/tanh/elu  
+    activation = "leaky_relu",  -- Try: sigmoid/relu/tanh  
 }
 ```
 6.📸 Preview

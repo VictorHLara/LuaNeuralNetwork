@@ -59,7 +59,7 @@ A visually engaging implementation of a neural network solving the XOR problem, 
 ## 🛠️ Customization
 
 Modify main.lua to experiment:
-
+```bash
 local config = {  
     inputSize = 2,  
     hiddenSize = 4,  
@@ -68,7 +68,7 @@ local config = {
     trainingDelay = 0.5,  
     activation = "leaky_relu",  -- Try: sigmoid/relu/tanh/elu  
 }
-
+```
 6.📸 Preview
 
 

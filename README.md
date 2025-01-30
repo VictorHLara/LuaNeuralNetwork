@@ -52,8 +52,9 @@ A visually engaging implementation of a neural network solving the XOR problem, 
 ```
 
   2. Keyboard Controls:
-  ### ↑ - Increase training speed
-  ### ↓ - Decrease training speed
+     ```bash
+    ↑ - Increase training speed
+    ↓ - Decrease training speed
 
 5.🛠️ Customization
 

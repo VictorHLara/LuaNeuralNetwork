@@ -40,11 +40,11 @@ A visually engaging implementation of a neural network solving the XOR problem, 
    git clone https://github.com/your-username/neural-network-love2d.git
    cd neural-network-love2d
    
-3.**Run Project:
+3. **Run Project**:
   ```bash
     love .
   ```
-##🎮 Usage
+## 🎮 Usage
   # Start training visualization
     love .
 

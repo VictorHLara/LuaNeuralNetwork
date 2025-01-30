@@ -5,7 +5,7 @@
 
 A visually engaging implementation of a neural network solving the XOR problem, complete with real-time graphical visualization using the LÖVE2D framework.
 
-![Neural Network Visualization](https://i.imgur.com/9zZJQ7D.png) *Replace with your own screenshot*
+![Neural Network Visualization](https://i.imgur.com/9zZJQ7D.png) 
 
 ## ✨ Features
 
@@ -40,11 +40,11 @@ A visually engaging implementation of a neural network solving the XOR problem, 
    git clone https://github.com/your-username/neural-network-love2d.git
    cd neural-network-love2d
    
-3.Run Project:
+3.**Run Project:
   ```bash
     love .
   ```
-4.🎮 Usage
+4.**🎮 Usage
   # Start training visualization
     love .
 

@@ -1,2 +1,75 @@
-# LuaNeuralNetwork
-Neural Network implementation in Lua
+# Neural Network Visualization with LÖVE
+
+[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://lua.org)
+[![LÖVE](https://img.shields.io/badge/LÖVE-FF0000?style=for-the-badge&logo=love2d&logoColor=white)](https://love2d.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+A visually engaging implementation of a neural network solving the XOR problem, complete with real-time graphical visualization using the LÖVE2D framework.
+
+![Neural Network Visualization](https://i.imgur.com/9zZJQ7D.png) *Replace with your own screenshot*
+
+## ✨ Features
+
+- **Interactive Neural Network Visualization**
+  - Real-time rendering of network architecture
+  - Dynamic connection lines between layers
+  - Color-coded neurons (input/hidden/output)
+- **Multiple Activation Functions**
+  - Sigmoid (default)
+  - ReLU
+  - Leaky ReLU
+  - Tanh
+  - ELU
+  - Softmax (for classification)
+- **Training Controls**
+  - Adjustable learning rate
+  - Variable training speed (↑/↓ keys)
+  - Real-time error tracking
+- **Modular Architecture**
+  - Separated neural network logic and rendering
+  - Easy-to-modify configuration
+
+## 🚀 Installation
+
+1. **Install LÖVE Framework**:
+   - Windows/macOS: [Download installer](https://love2d.org)
+   - Linux:
+     ```bash
+     sudo apt install love
+     ```
+
+2. **Clone Repository**:
+   ```bash
+   git clone https://github.com/your-username/neural-network-love2d.git
+   cd neural-network-love2d
+   
+3.Run Project:
+  ```bash
+    love .
+  ```
+4.🎮 Usage
+  # Start training visualization
+    love .
+
+  # Keyboard Controls:
+  # ↑ - Increase training speed
+  # ↓ - Decrease training speed
+
+5.🛠️ Customization
+
+Modify main.lua to experiment:
+
+local config = {
+    inputSize = 2,
+    hiddenSize = 4,
+    outputSize = 1,
+    learningRate = 0.3,
+    trainingDelay = 0.5,
+    activation = "leaky_relu",  -- Try: sigmoid/relu/tanh/elu
+    alpha = 0.1  -- For ELU activation
+}
+
+6.📸 Preview
+
+
+

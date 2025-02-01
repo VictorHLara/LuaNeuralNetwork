@@ -36,8 +36,8 @@ A visually engaging implementation of a neural network solving the XOR problem, 
 
 2. **Clone Repository**:
    ```bash
-   git clone https://github.com/your-username/neural-network-love2d.git
-   cd neural-network-love2d
+   git clone https://github.com/VictorHLara/LuaNeuralNetwork.git
+   cd LuaNeuralNetwork
    
 3. **Run Project**:
   ```bash

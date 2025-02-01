@@ -68,7 +68,9 @@ local config = {
     activation = "leaky_relu",  -- Try: sigmoid/relu/tanh  
 }
 ```
-6.📸 Preview
+## 📸 Preview
+
+![Neural Network in training visualization](https://github.com/user-attachments/assets/6b50066c-3552-4805-a712-16f9590de74e) 
 
 
 
